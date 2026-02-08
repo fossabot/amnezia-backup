@@ -1,4 +1,6 @@
 # Amnezia Backup Tool
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnastyagrifon%2Famnezia-backup.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnastyagrifon%2Famnezia-backup?ref=badge_shield)
+
 
 Backs up and restores your Amnezia VPN containers.
 
@@ -38,3 +40,6 @@ Backups are saved in a directory `./amnezia_opt_backups/`
 ## License
 
 Free to use under GPL v3.0 license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnastyagrifon%2Famnezia-backup.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnastyagrifon%2Famnezia-backup?ref=badge_large)
